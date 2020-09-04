@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](jdacode/jdacode/blob/master/privateinvestocat.jpg)
+![avatar](privateinvestocat.jpg)
 
 <p align="center">
-  <img src="jdacode/jdacode/blob/master/daftpunktocat-thomas.gif" alt="octocat"/>
+  <img src="daftpunktocat-thomas.gif" alt="octocat"/>
 </p>
