@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](dc.png)
+![avatar](daftpunktocat-thomas.gif)
