@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](privateinvestocat.jpg)
+![avatar](./privateinvestocat.jpg)
 
 <p align="center">
-  <img src="daftpunktocat-thomas.gif" alt="octocat" width="200" height="200"/>
+  <img src="./daftpunktocat-thomas.gif" alt="octocat" width="200" height="200"/>
 </p>
