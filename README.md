@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![avatar](/jdacode/jdacode/privateinvestocat.jpg)
 
 <p align="center">
-  <img src="/jdacode/jdacode/daftpunktocat-thomas.gif " alt="octocat"/>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="octocat"/>
 </p>
