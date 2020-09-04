@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](/jdacode/jdacode/privateinvestocat.jpg)
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="octocat"/>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="octocat" width="200" height="200"/>
 </p>
