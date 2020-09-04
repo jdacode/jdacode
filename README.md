@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="dc.png" alt="dc" width="500" height="500"/>
-</p>
+![avatar](dc.png)
