@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="img/data-center.jpg" alt="dc"/>
+  <img src="dc.png" alt="dc" width="500" height="500"/>
 </p>
