@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](daftpunktocat-thomas.gif)
+![avatar](privateinvestocat.jpg)
+
+<p align="center">
+  <img src="daftpunktocat-thomas.gif" alt="octocat" width="200" height="200"/>
+</p>
